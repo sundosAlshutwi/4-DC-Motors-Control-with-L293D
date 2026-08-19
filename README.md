@@ -1,4 +1,4 @@
-#4 DC Motors Control with L293D
+# 4 DC Motors Control with L293D
 
 ## Overview
 Control 4 DC motors using two L293D motor driver ICs on an Arduino Uno, simulated in Tinkercad.
