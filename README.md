@@ -43,15 +43,10 @@ Control 4 DC motors using two L293D motor driver ICs on an Arduino Uno, simulate
 3. Alternating right/left turns for 60 seconds (direction switches every 5s)
 4. Motors stop automatically after the sequence completes
 
-## Files
-- `four_dc_motors_L293D_v2.ino` — Arduino sketch
+   
+## Video Demonstration
 
-## Upload to GitHub
-```bash
-git init
-git add four_dc_motors_L293D_v2.ino README.md
-git commit -m "Task 1: 4 DC motors control with L293D"
-git branch -M main
-git remote add origin https://github.com/<username>/<repo-name>.git
-git push -u origin main
-```
+
+https://github.com/user-attachments/assets/e50f1532-a136-452c-8405-45a30caa61ac
+
+
